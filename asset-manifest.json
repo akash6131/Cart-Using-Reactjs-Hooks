@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cart-Using-Reactjs-Hooks/static/css/main.a6f94d21.css",
+    "main.js": "/Cart-Using-Reactjs-Hooks/static/js/main.def49b07.js",
+    "index.html": "/Cart-Using-Reactjs-Hooks/index.html",
+    "main.a6f94d21.css.map": "/Cart-Using-Reactjs-Hooks/static/css/main.a6f94d21.css.map",
+    "main.def49b07.js.map": "/Cart-Using-Reactjs-Hooks/static/js/main.def49b07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6f94d21.css",
+    "static/js/main.def49b07.js"
+  ]
+}
